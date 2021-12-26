@@ -1,2 +1,3 @@
 # shellScript
-programs solved in shell Script
+problem assignments from bridgelabz
+problem solved in shell Script
